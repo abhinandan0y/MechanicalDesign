@@ -6,7 +6,7 @@ Finite Element Analysis, Mechanical Design, Mechanical Analysis, Fatigue, GD&T, 
 ```
 The techniques you mentioned—Finite Element Analysis, Mechanical Design, Mechanical Analysis, Fatigue, GD&T (Geometric Dimensioning and Tolerancing), and Hand Calculations—are fundamental in engineering disciplines like mechanical and structural engineering. Each of these techniques has specific tools and methods associated with it. Below is an overview of the tools and methods used for each:
 ```
-1. Finite Element Analysis (FEA)
+#### 1. Finite Element Analysis (FEA)
 Tools:
 ```
 ANSYS: A widely used engineering simulation tool for structural, thermal, fluid, and electromagnetic simulations.
@@ -23,7 +23,7 @@ Material Modeling: Defining material properties (elastic, plastic, etc.).
 Solver Setup: Selecting solvers (static, dynamic, linear, non-linear) to analyze.
 Post-Processing: Interpreting the results—stresses, deformations, and factor of safety.
 ```
-2. Mechanical Design
+#### 2. Mechanical Design
 Tools:
 ```
 CAD Software: Tools like AutoCAD, SolidWorks, CATIA, NX (Siemens), and Fusion 360 are used for 3D modeling and mechanical design.
@@ -37,7 +37,7 @@ Tolerance Analysis: Ensuring part tolerances are feasible.
 Optimization Techniques: Using tools to reduce material while maintaining strength.
 Prototyping: Creating models using 3D printing or CNC for real-world testing.
 ```
-3. Mechanical Analysis
+#### 3. Mechanical Analysis
 Tools:
 ```
 MATLAB: For mechanical analysis and system simulations.
@@ -52,7 +52,7 @@ Vibration Analysis: Studying the frequency response of components.
 Thermal Analysis: Investigating heat transfer in components (conduction, convection, radiation).
 Kinematic and Dynamic Analysis: Studying the motion and forces on moving parts.
 ```
-4. Fatigue Analysis
+#### 4. Fatigue Analysis
 Tools:
 ```
 MSC Fatigue: For fatigue life prediction based on finite element models.
@@ -66,7 +66,7 @@ Strain-Life (ε-N Curve) Method: Considers both elastic and plastic deformations
 Fracture Mechanics: Models crack initiation and propagation.
 Miner’s Rule: A cumulative damage rule used for calculating fatigue life under variable loading.
 ```
-5. GD&T (Geometric Dimensioning and Tolerancing)
+#### 5. GD&T (Geometric Dimensioning and Tolerancing)
 Tools:
 ```
 CAD Software with GD&T Integration: Programs like SolidWorks, Creo, and AutoCAD allow GD&T symbols to be added to drawings.
@@ -80,7 +80,7 @@ Datum Reference: Establishing reference points for measurement.
 Tolerance Zones: Defining the allowable space for features to exist within tolerances.
 Feature Control Frames: Contain information about the type of tolerance, datum references, and tolerance zones.
 ```
-6. Hand Calculations
+#### 6. Hand Calculations
 Tools:
 ```
 Scientific Calculators: Used for quick and precise calculations.
@@ -100,7 +100,7 @@ Each of these techniques plays a critical role in mechanical and structural engi
 
 
 
-Lead Engineer - Production Technologies C&SCLead Engineer - Production Technologies C&SC what is c & sc
+#### Lead Engineer - Production Technologies C&SCLead Engineer - Production Technologies C&SC what is c & sc
 ```
 In the context of "Lead Engineer - Production Technologies C&SC," C&SC typically stands for Components and Supply Chain. This refers to the focus on the design, manufacturing, and sourcing of components, as well as managing the supply chain that delivers these components for production. The role likely involves overseeing production technologies related to both component manufacturing and the optimization of the supply chain to ensure efficiency, quality, and timely delivery in the production process.
 ```
